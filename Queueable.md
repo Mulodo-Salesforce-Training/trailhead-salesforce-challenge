@@ -1,4 +1,4 @@
-# [Control Processes with Queueable Apex] (https://trailhead.salesforce.com/modules/asynchronous_apex/units/async_apex_queueable)
+# [Control Processes with Queueable Apex](https://trailhead.salesforce.com/modules/asynchronous_apex/units/async_apex_queueable)
 
 ## Create an Queueable Apex class that inserts Contacts for Accounts.
 
