@@ -78,4 +78,8 @@ global class AnimalLocatorMock implements HttpCalloutMock {
 
 ```
 
+### Setup Remote site settings
+
+![Image of Remote site settings](https://github.com/Mulodo-Salesforce-Training/trailhead-salesforce-challenge/blob/master/img/RestCallouts.png)
+
 > Source: https://developer.salesforce.com/forums/?id=906F0000000D6tHIAS
