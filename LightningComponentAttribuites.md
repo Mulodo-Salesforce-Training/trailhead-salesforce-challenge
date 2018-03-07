@@ -10,7 +10,7 @@ Create a Lightning Component to display a single item for your packing list.
 * Display Price and Quantity using the appropriate formatted number fields.
 * Display Packed status using a toggle.
 
-### Lightning Component: campingListItem
+### Lightning Component: campingListItem.cmp
 
 ```
 <aura:component >
